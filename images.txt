@@ -1,1 +1,1 @@
-/tiangolo/nginx-rtmp:latest
+tiangolo/nginx-rtmp:latest
