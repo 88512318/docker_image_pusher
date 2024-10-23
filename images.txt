@@ -1,4 +1,1 @@
-nginx
 /tiangolo/nginx-rtmp:latest
-mysql
-node
