@@ -1,1 +1,1 @@
-mysql:8.0.40-debian
+tiangolo/nginx-rtmp:latest
