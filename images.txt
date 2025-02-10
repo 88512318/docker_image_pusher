@@ -1,1 +1,1 @@
-tiangolo/nginx-rtmp:latest
+deepseek/deepseek:latest
