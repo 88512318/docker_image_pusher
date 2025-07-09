@@ -1,1 +1,1 @@
-deepseek/deepseek:latest
+ossrs/srs:latest
