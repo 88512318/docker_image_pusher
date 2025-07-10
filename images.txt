@@ -1,1 +1,1 @@
-ossrs/srs:latest
+alfg/nginx-rtmp
